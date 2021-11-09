@@ -13,9 +13,7 @@ Under Arch, `transmission-remote` is found in the `transmission-cli` package.
 
 # NOTIFICATIONS
 
-Specify the `-n` flag to generate desktop notifications, ie.:
-
-  `addmag -n LINK`
+Specify the `-n` flag to generate desktop notifications, e.g., `addmag -n LINK`
 
 A notification will be created on success or failure. Failure notifications will
 be marked critical.
