@@ -34,4 +34,4 @@ the system configuration (in `/etc/addmagrc`).
 Available under the terms of the **MIT license**. See included LICENSE file for
 the full text of the license.
 
-Copyright 2021 **aetherised** <<aetherised@gmail.com>>
+Copyright 2021 **0E9B061F** <<0E9B061F@protonmail.com>>

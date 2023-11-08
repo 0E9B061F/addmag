@@ -2,7 +2,7 @@
 
 pkgname=addmag
 pkgver=0.2.1
-pkgrel=4
+pkgrel=5
 pkgdesc="Opens torrents and magnet links using a remote Transmission daemon"
 arch=('any')
 url="https://github.com/aetherised/addmag"
@@ -26,4 +26,4 @@ package() {
 md5sums=('9fd4986bc3d4cc0d4dc1e5913eb5b2de'
          'd29606b143c5d8c80d3d68664e6fc50a'
          '648ebc0775a7579d1f66bbf4b2381b83'
-         '6b40219cffa0a70428eb925cb240bb73')
+         'acba80982c9e73df4bdc46b9ba0ff177')
